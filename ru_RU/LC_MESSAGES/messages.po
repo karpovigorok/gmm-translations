@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GoogleMapsMegaEditor\n"
+"POT-Creation-Date: 2020-04-18 21:39+0000\n"
+"PO-Revision-Date: 2020-04-18 21:39+0000\n"
+"Last-Translator: Igor Karpov <ika@noxls.net>\n"
+"Language-Team: Igor Karpov <ika@noxls.net>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: Console\n"
+"X-Poedit-SearchPath-3: ../storage/framework/messages/\n"
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:5
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:12
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:5
+#: ../storage/framework/messages/5820425ed2556a61bdad53cda31a24cd64d8c17c.php.php:5
+#: ../storage/framework/messages/64d5a4ff558527bb3f4b0c34ec6b6d7682c1ed3d.php.php:5
+#: ../storage/framework/messages/6564ad92e68f7913f8ed4a86d9bc9f21981897e7.php.php:63
+#: ../storage/framework/messages/6564ad92e68f7913f8ed4a86d9bc9f21981897e7.php.php:69
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:5
+msgid "Maps"
+msgstr "Карты"
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:6
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:6
+#: ../storage/framework/messages/64d5a4ff558527bb3f4b0c34ec6b6d7682c1ed3d.php.php:6
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:6
+msgid "Polygons"
+msgstr ""
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:7
+msgid "Polygon"
+msgstr ""
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:49
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:49
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:60
+msgid "Fill"
+msgstr ""
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:63
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:63
+#: ../storage/framework/messages/64d5a4ff558527bb3f4b0c34ec6b6d7682c1ed3d.php.php:47
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:74
+msgid "Stroke"
+msgstr ""
+
+#: ../storage/framework/messages/00a266e258bf8bd8c5fe009848c77291dc6c89ed.php.php:97
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:591
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:97
+#: ../storage/framework/messages/5820425ed2556a61bdad53cda31a24cd64d8c17c.php.php:72
+#: ../storage/framework/messages/64d5a4ff558527bb3f4b0c34ec6b6d7682c1ed3d.php.php:81
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:150
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:232
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:108
+#: ../storage/framework/messages/d580d9f3a8860154114ddd158bd0f343d9efe149.php.php:65
+msgid "Save"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:11
+msgid "Mode:"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:29
+msgid "Select Action"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:30
+msgid "Add a Marker"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:31
+msgid "Add a Circle"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:32
+msgid "Add a Rectangle"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:33
+msgid "Add a Polyline"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:34
+msgid "Add a Polygon"
+msgstr ""
+
+#: ../storage/framework/messages/026367433d0a5d95820dc68d5dc9c49855c56d81.php.php:35
+msgid "Put a hole in a polygon"
+msgstr ""
+
+#: ../storage/framework/messages/043ea22d5828599d64a7da64a440f698ec0c11cc.php.php:1
+msgid "zIndex:"
+msgstr ""
+
+#: ../storage/framework/messages/043ea22d5828599d64a7da64a440f698ec0c11cc.php.php:6
+msgid "zIndex"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:8
+#: ../storage/framework/messages/11fb73f35a5f74561472cc6a87bc60153e5d70e7.php.php:11
+msgid "Map Settings"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:24
+msgid "Map Name"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:49
+msgid "Set the Map Center"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:54
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:66
+msgid "Map Center Latitude"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:67
+msgid "Default center latitude. E.g. 40.45"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:83
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:95
+msgid "Map Center Longitude"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:96
+msgid "Default center longitude. E.g. -98.52"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:115
+msgid "Autodetect the Map Center"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:120
+msgid "IpStack API Key (get key here)"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:131
+msgid "IpStack API Key"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:132
+msgid "This is third party API key"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:156
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:159
+msgid "Map Width"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:165
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:168
+msgid "Map Height"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:176
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:187
+msgid "Min Zoom"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:188
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:216
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:244
+msgid "Between 1 - 22"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:204
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:215
+msgid "Max Zoom"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:232
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:243
+msgid "Default Zoom"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:262
+msgid "Google Map API Key (get key here)"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:273
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:274
+msgid "Google Map API Key"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:290
+msgid "Map Language"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:300
+msgid "Choose map language"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:322
+msgid "Map Type"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:357
+msgid "Map Style (get your favorite style)"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:366
+msgid "Map Style"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:386
+msgid "Clustering Markers"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:393
+msgid "Enable Clustering"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:402
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:415
+msgid "Clustering Enabled When Zoom Level Less"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:416
+msgid "Clustering Enabled When Zoom Level Less. Between 1 - 22"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:434
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:445
+msgid "Distance"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:446
+msgid "Distance between markers for clustering in pixels. E.g. 50"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:465
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:476
+msgid "Marker cluster level 2"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:477
+msgid "Number markers in cluster at second level. E.g. 10"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:493
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:504
+msgid "Marker cluster level 3"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:505
+msgid "Number markers in cluster at second level. E.g. 50"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:521
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:532
+msgid "Marker cluster level 4"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:533
+msgid "Number markers in cluster at second level. E.g. 100"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:550
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:561
+msgid "Marker cluster level 5"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:562
+msgid "Number markers in cluster at second level. E.g. 300"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:578
+msgid "Heat Map"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:581
+msgid "Maps Status"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:585
+msgid "Publish"
+msgstr ""
+
+#: ../storage/framework/messages/047bc6a02f0f8309929319ad4af6cf64a723fdd2.php.php:592
+msgid "Cancel"
+msgstr ""
+
+#: ../storage/framework/messages/08c311d0d10b75a3cf5cfa1c63f3b768631c2f50.php.php:10
+msgid "New Category"
+msgstr ""
+
+#: ../storage/framework/messages/0bd6e8f605d970f3f9a14c0f8179e72027b4a731.php.php:4
+msgid "Done."
+msgstr ""
+
+#: ../storage/framework/messages/0e18faddcbfa72b47749e4161f1cf46b1ca59f34.php.php:33
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:11
+msgid "Edit Profile"
+msgstr ""
+
+#: ../storage/framework/messages/0e18faddcbfa72b47749e4161f1cf46b1ca59f34.php.php:38
+msgid "Logout"
+msgstr ""
+
+#: ../storage/framework/messages/1be24d45308f956162aef8263db1f9f1d61f5591.php.php:5
+msgid "Title"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:12
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:31
+msgid "Figures"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:27
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:27
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:20
+msgid "Category"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:28
+msgid "Type"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:29
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:21
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:28
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:31
+msgid "Name"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:30
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:29
+#: ../storage/framework/messages/f3e70ec0c110962854082f4ea065bed262d673d4.php.php:3
+msgid "Description"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:31
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:23
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:30
+msgid "Created At"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:32
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:26
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:31
+msgid "Status"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:33
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:28
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:32
+#: ../storage/framework/messages/5820425ed2556a61bdad53cda31a24cd64d8c17c.php.php:34
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:23
+#: ../storage/framework/messages/dbf984fe882971fdd3dcf608ba04366569e38753.php.php:3
+msgid "Delete"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:34
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:33
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:22
+msgid "Edit"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:51
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:51
+msgid "Not Set"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:61
+#: ../storage/framework/messages/517b68ea3adb715458fd9805929e2d96c4b40076.php.php:5
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:59
+msgid "Visible"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:61
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:59
+msgid "Invisible"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:80
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:78
+msgid "Back to Maps"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:81
+msgid "Add Figure"
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:90
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:89
+msgid "No markers found."
+msgstr ""
+
+#: ../storage/framework/messages/2a1bda1ebff67011f003ed6ee6f7cc8682833d08.php.php:90
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:89
+msgid "Add your first marker."
+msgstr ""
+
+#: ../storage/framework/messages/327aefe54e7261e1f57ece5cde1e63d8d23855a0.php.php:6
+#: ../storage/framework/messages/327aefe54e7261e1f57ece5cde1e63d8d23855a0.php.php:46
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:122
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:130
+#: ../storage/framework/messages/b0fa61514848b309f4a648b41db1424efbfb9427.php.php:71
+msgid "Confirm Password"
+msgstr ""
+
+#: ../storage/framework/messages/327aefe54e7261e1f57ece5cde1e63d8d23855a0.php.php:9
+msgid "Please confirm your password before continuing."
+msgstr ""
+
+#: ../storage/framework/messages/327aefe54e7261e1f57ece5cde1e63d8d23855a0.php.php:16
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:98
+#: ../storage/framework/messages/5d343f6b758fcc3b0d6da4add3b9ffa5bebbd016.php.php:48
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:99
+#: ../storage/framework/messages/b0fa61514848b309f4a648b41db1424efbfb9427.php.php:43
+msgid "Password"
+msgstr ""
+
+#: ../storage/framework/messages/327aefe54e7261e1f57ece5cde1e63d8d23855a0.php.php:52
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: ../storage/framework/messages/4377cfae528a178ed3eebbc49be68dd06fc4e5a6.php.php:90
+#: Http/Controllers/SettingsController.php:90
+msgid "Settings Updated Successfully."
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:22
+msgid "Owner"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:24
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:50
+msgid "View"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:25
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:105
+msgid "Share"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:27
+#: ../storage/framework/messages/6564ad92e68f7913f8ed4a86d9bc9f21981897e7.php.php:91
+msgid "Settings"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:29
+msgid "Add"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:30
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:12
+#: ../storage/framework/messages/5820425ed2556a61bdad53cda31a24cd64d8c17c.php.php:6
+msgid "Markers"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:51
+#: ../storage/framework/messages/d3656d91289ce070bc7f43e818455dca14f58ec4.php.php:142
+#: Http/Controllers/MapController.php:142
+msgid "Preview"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:60
+msgid "Published"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:60
+msgid "Unpublished"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:87
+msgid "Create Map"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:90
+msgid "No maps found."
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:90
+msgid "Create your first map."
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:108
+msgid "Link"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:110
+msgid "Embed code"
+msgstr ""
+
+#: ../storage/framework/messages/48345fcb344ae502c7e47f39caf6d8e1b1f68c5b.php.php:111
+msgid "Change iframe iframe WIDTH and HEIGHT as you wish"
+msgstr ""
+
+#: ../storage/framework/messages/4c533f1830760339a1106b438d3cd3c544511fbe.php.php:7
+msgid "Rectangle"
+msgstr ""
+
+#: ../storage/framework/messages/4e356d6d7a5a4ca79973c6e0559fa5b57b517845.php.php:78
+#: ../storage/framework/messages/4e356d6d7a5a4ca79973c6e0559fa5b57b517845.php.php:152
+#: ../storage/framework/messages/756114ecfe059907710c8c863ef0b4cb5221e021.php.php:78
+#: ../storage/framework/messages/756114ecfe059907710c8c863ef0b4cb5221e021.php.php:153
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:91
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:182
+#: ../storage/framework/messages/7eec60ae6daf74c0892440575837ce782865a0de.php.php:123
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:76
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:309
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:322
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:86
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:175
+#: Http/Controllers/CircleController.php:78
+#: Http/Controllers/CircleController.php:152
+#: Http/Controllers/FigureController.php:123
+#: Http/Controllers/MarkerController.php:76
+#: Http/Controllers/MarkerController.php:309
+#: Http/Controllers/MarkerController.php:322
+#: Http/Controllers/PolygonController.php:91
+#: Http/Controllers/PolygonController.php:182
+#: Http/Controllers/PolylineController.php:86
+#: Http/Controllers/PolylineController.php:175
+#: Http/Controllers/RectangleController.php:78
+#: Http/Controllers/RectangleController.php:153
+msgid "Success!"
+msgstr ""
+
+#: ../storage/framework/messages/4e356d6d7a5a4ca79973c6e0559fa5b57b517845.php.php:79
+#: Http/Controllers/CircleController.php:79
+msgid "Circle Created Successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/4e356d6d7a5a4ca79973c6e0559fa5b57b517845.php.php:153
+#: Http/Controllers/CircleController.php:153
+msgid "Circle Saved!"
+msgstr ""
+
+#: ../storage/framework/messages/4f3f311509fcd15365ec044b0e663dd7675c600f.php.php:41
+#: Http/Controllers/UserController.php:41
+msgid "Profile updated!"
+msgstr ""
+
+#: ../storage/framework/messages/51f8cf9df49c061dc904716dca66532f1df0796d.php.php:79
+msgid "Add Marker"
+msgstr ""
+
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:13
+msgid "Registration form"
+msgstr ""
+
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:66
+#: ../storage/framework/messages/5d343f6b758fcc3b0d6da4add3b9ffa5bebbd016.php.php:18
+#: ../storage/framework/messages/93a356a17365cb57965c7bcae3f42c7c5d69efa5.php.php:20
+#: ../storage/framework/messages/b0fa61514848b309f4a648b41db1424efbfb9427.php.php:15
+msgid "E-Mail Address"
+msgstr ""
+
+#: ../storage/framework/messages/523bd59a471e570e2d5ee4992b71f393b0e24ea9.php.php:133
+msgid "Create Account"
+msgstr ""
+
+#: ../storage/framework/messages/5809d278c54787a760f3c01e8cda8d7af867cfc8.php.php:10
+msgid "Add New Map"
+msgstr ""
+
+#: ../storage/framework/messages/5820425ed2556a61bdad53cda31a24cd64d8c17c.php.php:7
+msgid "Marker"
+msgstr ""
+
+#: ../storage/framework/messages/5d343f6b758fcc3b0d6da4add3b9ffa5bebbd016.php.php:82
+msgid "Remember Me"
+msgstr ""
+
+#: ../storage/framework/messages/5d343f6b758fcc3b0d6da4add3b9ffa5bebbd016.php.php:87
+msgid "Log in"
+msgstr ""
+
+#: ../storage/framework/messages/61d2a82879fce64de4a8933658f387f2b5c90c54.php.php:5
+msgid "Clickable"
+msgstr ""
+
+#: ../storage/framework/messages/64d5a4ff558527bb3f4b0c34ec6b6d7682c1ed3d.php.php:7
+msgid "Polyline"
+msgstr ""
+
+#: ../storage/framework/messages/6564ad92e68f7913f8ed4a86d9bc9f21981897e7.php.php:73
+msgid "Add Map"
+msgstr ""
+
+#: ../storage/framework/messages/6564ad92e68f7913f8ed4a86d9bc9f21981897e7.php.php:77
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:11
+msgid "Categories"
+msgstr ""
+
+#: ../storage/framework/messages/6fa90bb2af1aeb82724a3f28eaa17528dd272b5f.php.php:64
+#: ../storage/framework/messages/6fa90bb2af1aeb82724a3f28eaa17528dd272b5f.php.php:117
+#: Http/Controllers/CategoryController.php:64
+#: Http/Controllers/CategoryController.php:117
+msgid "Category Updated Successfully."
+msgstr ""
+
+#: ../storage/framework/messages/6fa90bb2af1aeb82724a3f28eaa17528dd272b5f.php.php:130
+#: Http/Controllers/CategoryController.php:130
+msgid "Category Deleted Successfully."
+msgstr ""
+
+#: ../storage/framework/messages/756114ecfe059907710c8c863ef0b4cb5221e021.php.php:79
+#: Http/Controllers/RectangleController.php:79
+msgid "Rectangle Created Successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/756114ecfe059907710c8c863ef0b4cb5221e021.php.php:154
+#: Http/Controllers/RectangleController.php:154
+msgid "Rectangle Saved!"
+msgstr ""
+
+#: ../storage/framework/messages/756114ecfe059907710c8c863ef0b4cb5221e021.php.php:169
+#: ../storage/framework/messages/d3656d91289ce070bc7f43e818455dca14f58ec4.php.php:142
+#: Http/Controllers/MapController.php:142
+#: Http/Controllers/RectangleController.php:169
+msgid "Map updated!"
+msgstr ""
+
+#: ../storage/framework/messages/78bdc111a1f538138ba3f8d1a5e234b96474c66b.php.php:9
+msgid "Choose File"
+msgstr ""
+
+#: ../storage/framework/messages/78bdc111a1f538138ba3f8d1a5e234b96474c66b.php.php:13
+msgid "Select Image"
+msgstr ""
+
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:54
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:150
+#: Http/Controllers/PolygonController.php:54
+#: Http/Controllers/PolygonController.php:150
+msgid "Polygon is empty."
+msgstr ""
+
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:92
+#: Http/Controllers/PolygonController.php:92
+msgid "Polygon Created Successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/7a5a9a4e1fd9386f223fdf815a3e67a5143214a2.php.php:183
+#: Http/Controllers/PolygonController.php:183
+msgid "Polygon Saved!"
+msgstr ""
+
+#: ../storage/framework/messages/7eec60ae6daf74c0892440575837ce782865a0de.php.php:124
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:323
+#: Http/Controllers/FigureController.php:124
+#: Http/Controllers/MarkerController.php:323
+msgid "Image Deleted!"
+msgstr ""
+
+#: ../storage/framework/messages/7eec60ae6daf74c0892440575837ce782865a0de.php.php:131
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:330
+#: Http/Controllers/FigureController.php:131
+#: Http/Controllers/MarkerController.php:330
+msgid "Error!"
+msgstr ""
+
+#: ../storage/framework/messages/7eec60ae6daf74c0892440575837ce782865a0de.php.php:132
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:331
+#: Http/Controllers/FigureController.php:132
+#: Http/Controllers/MarkerController.php:331
+msgid "Can't delete Image!"
+msgstr ""
+
+#: ../storage/framework/messages/7eec60ae6daf74c0892440575837ce782865a0de.php.php:151
+#: Http/Controllers/FigureController.php:151
+msgid "Deleted successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/80b63b3dcbddd5f98da245c5b591e710c703f40c.php.php:11
+msgid "Edit Category"
+msgstr ""
+
+#: ../storage/framework/messages/85457f087459cb363bf3f8d36a5bea290ad60ec4.php.php:6
+msgid "Verify Your Email Address"
+msgstr ""
+
+#: ../storage/framework/messages/85457f087459cb363bf3f8d36a5bea290ad60ec4.php.php:11
+msgid "A fresh verification link has been sent to your email address."
+msgstr ""
+
+#: ../storage/framework/messages/85457f087459cb363bf3f8d36a5bea290ad60ec4.php.php:16
+msgid "Before proceeding, please check your email for a verification link."
+msgstr ""
+
+#: ../storage/framework/messages/85457f087459cb363bf3f8d36a5bea290ad60ec4.php.php:18
+msgid "If you did not receive the email"
+msgstr ""
+
+#: ../storage/framework/messages/85457f087459cb363bf3f8d36a5bea290ad60ec4.php.php:21
+msgid "click here to request another"
+msgstr ""
+
+#: ../storage/framework/messages/93a356a17365cb57965c7bcae3f42c7c5d69efa5.php.php:6
+#: ../storage/framework/messages/b0fa61514848b309f4a648b41db1424efbfb9427.php.php:6
+#: ../storage/framework/messages/b0fa61514848b309f4a648b41db1424efbfb9427.php.php:81
+msgid "Reset Password"
+msgstr ""
+
+#: ../storage/framework/messages/93a356a17365cb57965c7bcae3f42c7c5d69efa5.php.php:50
+msgid "Send Password Reset Link"
+msgstr ""
+
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:35
+msgid "User Name"
+msgstr ""
+
+#: ../storage/framework/messages/968782bfacd431b15f0a3c87af46b16399a63485.php.php:66
+msgid "User email"
+msgstr ""
+
+#: ../storage/framework/messages/a8db44158e1785f41f68668aae49403accb88f34.php.php:5
+msgid "Fill Color"
+msgstr ""
+
+#: ../storage/framework/messages/adcb00839b993570572db07864065ef20fd8a68e.php.php:1
+msgid "Fill Opacity:"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:12
+msgid "General Settings"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:25
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:37
+msgid "Website Name"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:38
+msgid "Will use in Meta Title"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:57
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:67
+msgid "Website Description"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:68
+msgid "Will use in Meta Description"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:86
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:99
+msgid "Google Analytics ID"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:116
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:128
+msgid "Google Tag ID"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:147
+#, php-format
+msgid "Codecanyon Purchase Code [<a href=\"%s\">How To Find</a>]"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:160
+msgid "Purchase Code"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:176
+msgid "Locale"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:179
+msgid "Set Locale"
+msgstr ""
+
+#: ../storage/framework/messages/bb1d5f92bff5ce7de6b45acb41c51dcb16c0b4dd.php.php:181
+msgid "[Default]"
+msgstr ""
+
+#: ../storage/framework/messages/bb4d1003397a992e7e3d2effaf7855cb5417ff27.php.php:1
+msgid "Stroke Opacity:"
+msgstr ""
+
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:77
+#: Http/Controllers/MarkerController.php:77
+msgid "Marker Created Successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:310
+#: Http/Controllers/MarkerController.php:310
+msgid "Marker Saved!"
+msgstr ""
+
+#: ../storage/framework/messages/bfcce6d6004ba8c966e91b0a23bc7c2f483eaa02.php.php:350
+#: Http/Controllers/MarkerController.php:350
+msgid "Marker Deleted!"
+msgstr ""
+
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:21
+msgid "Icon"
+msgstr ""
+
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:55
+#: ../storage/framework/messages/dfe042493fc5ada17fe2838a381061fa8054df6a.php.php:17
+msgid "Create Category"
+msgstr ""
+
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:58
+msgid "No Categories Found."
+msgstr ""
+
+#: ../storage/framework/messages/d139c469e44fe452eefc44727b593c3cea6e7487.php.php:58
+msgid "Create Category."
+msgstr ""
+
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:7
+msgid "Circle"
+msgstr ""
+
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:48
+#: ../storage/framework/messages/d15531745f6c31fc697c688f89526fb0c6cd185c.php.php:55
+msgid "Radius"
+msgstr ""
+
+#: ../storage/framework/messages/d191460aa14427ee7a0f784cc3feb6cdc1aff1cf.php.php:5
+msgid "Stroke Color"
+msgstr ""
+
+#: ../storage/framework/messages/d37963daacecfb7130f10b63ed18c7ab0ea8e37b.php.php:1
+msgid "Stroke Weight:"
+msgstr ""
+
+#: ../storage/framework/messages/d37963daacecfb7130f10b63ed18c7ab0ea8e37b.php.php:7
+msgid "Stroke Weight"
+msgstr ""
+
+#: ../storage/framework/messages/d580d9f3a8860154114ddd158bd0f343d9efe149.php.php:23
+msgid "Category Name"
+msgstr ""
+
+#: ../storage/framework/messages/d580d9f3a8860154114ddd158bd0f343d9efe149.php.php:42
+msgid "Icon (<a href=\":download_url\" target=\"_blank\">Download</a>)"
+msgstr ""
+
+#: ../storage/framework/messages/d580d9f3a8860154114ddd158bd0f343d9efe149.php.php:64
+msgid "Back To Categories"
+msgstr ""
+
+#: ../storage/framework/messages/dfe042493fc5ada17fe2838a381061fa8054df6a.php.php:8
+msgid "Assign Category"
+msgstr ""
+
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:53
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:146
+#: Http/Controllers/PolylineController.php:53
+#: Http/Controllers/PolylineController.php:146
+msgid "Polyline is empty."
+msgstr ""
+
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:87
+#: Http/Controllers/PolylineController.php:87
+msgid "Polyline Created Successfully!"
+msgstr ""
+
+#: ../storage/framework/messages/fa8b9b4b1c826a9bb7194e69e667229269a130bc.php.php:176
+#: Http/Controllers/PolylineController.php:176
+msgid "Polyline Saved!"
+msgstr ""
